@@ -1,6 +1,6 @@
 # Reading Group of Software Foundations book
 
-[Gitter](https://gitter.im/helsinki-fpsg)
+[Gitter](https://gitter.im/helsinki-fpsg/software-foundations)
 
 ## Resources
 
